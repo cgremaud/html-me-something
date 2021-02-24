@@ -1,0 +1,25 @@
+.navBar {
+  padding: 40px;
+  background-color: rgba(14, 131, 170, 0.787);
+  font-size: 100%;
+  align-content: center;
+  text-align: center;
+  /* border: 10px;
+  border-color: black; */
+}
+.mainHeader {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(229, 192, 231);
+  text-decoration: underline;
+  font-size: 150%
+}
+
+#confirmButton {
+  background-color: grey;
+}
+
+#navBarLinks {
+  font-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: left;
+}
