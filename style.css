@@ -1,3 +1,7 @@
+body {
+  background-color: rgb(23, 3, 72);
+}
+
 .navBar {
   padding: 40px;
   background-color: rgba(14, 131, 170, 0.787);
@@ -9,7 +13,7 @@
 }
 .mainHeader {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: rgb(229, 192, 231);
+  color: rgb(243, 211, 245);
   text-decoration: underline;
   font-size: 150%
 }
@@ -19,7 +23,19 @@
 }
 
 #navBarLinks {
-  font-color: black;
+  color: rgb(243, 187, 234);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: left;
 }
+
+#mainBody {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 5%;
+  margin-right: 10%;
+  font-size: 22;
+  padding: 20px;
+}
+/* a {
+  color: rgb(243, 187, 234)
+} */
