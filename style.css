@@ -18,6 +18,11 @@ body {
   font-size: 150%
 }
 
+.sectionHeader {
+  text-decoration: underline;
+  color: rgb(243, 211, 245);
+}
+
 #confirmButton {
   background-color: grey;
 }
@@ -30,8 +35,8 @@ body {
 
 #mainBody {
   color: white;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  margin-left: 5%;
+  font-family: serif;
+  margin-left: 10%;
   margin-right: 10%;
   font-size: 22;
   padding: 20px;
